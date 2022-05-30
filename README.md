@@ -1,6 +1,6 @@
 # mvShapiroTest
 
-## Probability Distribution Function goodness of fit testing
+## Shapiro-Wilk Test for Multivariate Normality and Skew-Normality
 
 **Blanca Monroy-Castillo and Elizabeth Gonzalez-Estrada** 
 
